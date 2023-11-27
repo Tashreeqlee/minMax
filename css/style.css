@@ -5,3 +5,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: #FFFF5F;
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+p {
+    color: grey;
+    margin-bottom: 10px;
+}
+span {
+    font-weight: bold;
+    color: #000;
+}
