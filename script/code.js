@@ -1,4 +1,4 @@
-let numbers = [11, 6, 5, 11, 3];
+let numbers = [11, 6, 5, 11, 3]; // can change numbers in the array to get different outcomes
 
 function getMinNumber() {
   return Math.min(...numbers);
